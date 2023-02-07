@@ -13,6 +13,7 @@ are available for the following namespaces:
 | iam          | Manage User Identity and Access.                                                                     |
 | lcm          | Manage Infrastructure, Software and Firmware Upgrades. |
 | files        | Manage virtual file servers, create and configure shares for client access, protect them using DR and sync policies, provision storage space and administer security controls.|
+| networking        | Manage networking configuration on Nutanix clusters, including AHV and advanced networking.|
 
 ## Getting Started
 
