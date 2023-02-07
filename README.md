@@ -70,4 +70,4 @@ These clients have a full set of [API Reference Documentation](https://developer
 This library is licensed under Nutanix proprietary license. Full license text is available in [LICENSE](https://developers.nutanix.com/license).
 
 ## Contact us
-In case of issues please reach out to us at the [mailing list](@sdk@nutanix.com).
+In case of issues please reach out to us at the [mailing list](mailto:sdk@nutanix.com).
